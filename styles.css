@@ -256,5 +256,6 @@ footer p {
 
     .hamburger {
         display: block;
+        size: 75px;
     }
 }
