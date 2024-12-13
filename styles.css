@@ -53,8 +53,8 @@ header {
 }
 
 .navbar ul li a:hover {
-    background-color:#1f1e1e;
-    color: red;
+/*     background-color:#1f1e1e; */
+    color: #c70039;
 }
 
 .hamburger {
